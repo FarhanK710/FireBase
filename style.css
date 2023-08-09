@@ -1,0 +1,23 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    font-family: Arial;
+    margin:auto;
+    text-align: center;
+  }
+  
+  form {
+    border: 1px solid black;
+    width: 400px;
+    height: 150px;
+    background-color: #fcfcfc;
+    border-radius: 20px;
+    margin: auto;
+  }
+  
+  input {
+    margin-bottom: 20px;
+  }
